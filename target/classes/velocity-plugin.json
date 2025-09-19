@@ -1,1 +1,0 @@
-{"id":"autoshutdown","name":"AutoShutdown","version":"1.1.2","description":"Automatically starts servers when players join","authors":["jacocanete"],"dependencies":[],"main":"com.jacocanete.autoshutdown.AutoShutdownPlugin"}
