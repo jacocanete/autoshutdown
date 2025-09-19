@@ -1,0 +1,6 @@
+com/jacocanete/autoshutdown/AutoShutdownPlugin.class
+com/jacocanete/autoshutdown/PterodactylAPI.class
+com/jacocanete/autoshutdown/ServerPinger.class
+com/jacocanete/autoshutdown/AutoShutdownPlugin$ServerStartupChecker.class
+com/jacocanete/autoshutdown/PlayerCountChecker.class
+com/jacocanete/autoshutdown/AutoShutdownPlugin$AutoShutdownCommand.class
